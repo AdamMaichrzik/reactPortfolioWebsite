@@ -7,8 +7,9 @@
         background-color: lightsalmon;
         position: relative;
         top: 70px;
+        scroll-behavior: smooth; // Not working on safari :/ 
         scroll-snap-type: y mandatory;
-        scrollbar-width: none; //for firefox
+        scrollbar-width: none; // For firefox
         &::-webkit-scrollbar{
             display: none;
         }
