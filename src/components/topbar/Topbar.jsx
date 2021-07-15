@@ -10,7 +10,7 @@ export default function Topbar() {
                     <div className="itemContainer">
                         <Person className="icon"/>
                         <span>+44 543 43 55</span>
-                    </div>
+                    </div> 
                     <div className="itemContainer">
                         <Mail className="icon"/>
                         <span>logicCode@gmail.com</span>
