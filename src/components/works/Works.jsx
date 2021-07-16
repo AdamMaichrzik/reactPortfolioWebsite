@@ -17,10 +17,15 @@ export default function Works() {
 									Ipsam minima, porro eum ab ipsum magnam asperiores accusantium
 									dolores culpa soluta odio amet quas.
 								</p>
-                                <span>Projects </span>
+								<span>Projects </span>
 							</div>
 						</div>
-						<div className="right"></div>
+						<div className="right">
+							<img
+								src="https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/10/attachment_100040756-e1538485934255.jpeg?auto=format&q=60&fit=max&w=930"
+								alt=""
+							/>
+						</div>
 					</div>
 				</div>
 			</div>
