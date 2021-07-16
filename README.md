@@ -8,6 +8,18 @@ This project is from [youtube tutorial](https://www.youtube.com/watch?v=7WwtzsSH
 
 You can learn more from him [here](https://www.youtube.com/channel/UCOxWrX5MIdXIeRNaXC3sqIg).
 
-## Website screenshots
+# Website screenshots
 
-![GitHub Logo](public/assets/projectScreenshots/reactWebsiteContact.png)
+## Intro page
+![Website screenshoot](public/assets/projectScreenshots/reactWebsiteIntro.png)
+## Intro page with rightbar menu
+![Website screenshoot](public/assets/projectScreenshots/reactWebsiteIntroWithRightbar.png)
+## Portfolio page
+![Website screenshoot](public/assets/projectScreenshots/reactWebsitePortfolio.png)
+## Works page
+![Website screenshoot](public/assets/projectScreenshots/reactWebsiteWorks.png)
+## Testimonials page
+![Website screenshoot](public/assets/projectScreenshots/reactWebsiteTestimonials.png)
+## Contact page
+![Website screenshoot](public/assets/projectScreenshots/reactWebsiteContact.png)
+
