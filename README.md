@@ -6,5 +6,8 @@ This project is from [youtube tutorial](https://www.youtube.com/watch?v=7WwtzsSH
 
 ## Check out the Lama Dev youtube channel
 
-You can learn more from him [here!](https://www.youtube.com/channel/UCOxWrX5MIdXIeRNaXC3sqIg).
+You can learn more from him [here](https://www.youtube.com/channel/UCOxWrX5MIdXIeRNaXC3sqIg).
 
+## Website screenshots
+
+![GitHub Logo](assets/projectScreenshots/)
