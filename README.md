@@ -13,7 +13,7 @@ You can learn more from him [here](https://www.youtube.com/channel/UCOxWrX5MIdXI
 ## Intro page
 ![Website screenshoot](public/assets/projectScreenshots/reactWebsiteIntro.png)
 ## Intro page with rightbar menu
-![Website screenshoot](public/assets/projectScreenshots/reactWebsiteIntroWithRightbar.png)
+![Website screenshoot](public/assets/projectScreenshots/reactWebsiteIntroWithRightBar.png)
 ## Portfolio page
 ![Website screenshoot](public/assets/projectScreenshots/reactWebsitePortfolio.png)
 ## Works page
