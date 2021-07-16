@@ -10,4 +10,4 @@ You can learn more from him [here](https://www.youtube.com/channel/UCOxWrX5MIdXI
 
 ## Website screenshots
 
-![GitHub Logo](assets/projectScreenshots/reactWebsiteContact.png)
+![GitHub Logo](./assets/projectScreenshots/reactWebsiteContact.png)
